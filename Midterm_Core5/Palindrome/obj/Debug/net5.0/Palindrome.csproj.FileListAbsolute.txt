@@ -1,0 +1,16 @@
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.exe
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.sourcelink.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\refint\Palindrome.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll

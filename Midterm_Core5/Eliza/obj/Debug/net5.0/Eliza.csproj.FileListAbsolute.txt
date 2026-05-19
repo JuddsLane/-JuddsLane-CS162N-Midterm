@@ -1,0 +1,16 @@
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\bin\Debug\net5.0\Eliza.exe
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\bin\Debug\net5.0\Eliza.deps.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\bin\Debug\net5.0\Eliza.runtimeconfig.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\bin\Debug\net5.0\Eliza.runtimeconfig.dev.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\bin\Debug\net5.0\Eliza.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\bin\Debug\net5.0\Eliza.pdb
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.AssemblyInfoInputs.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.AssemblyInfo.cs
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.csproj.CoreCompileInputs.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.sourcelink.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\refint\Eliza.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.pdb
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\Eliza.genruntimeconfig.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\Eliza\obj\Debug\net5.0\ref\Eliza.dll
