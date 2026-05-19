@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj": {}
+    "c:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj": {
+    "c:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj",
+        "projectUniqueName": "c:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj",
         "projectName": "ProfessorClasses",
-        "projectPath": "C:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj",
+        "projectPath": "c:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\ProfessorClasses.csproj",
         "packagesPath": "C:\\Users\\L00733160\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\obj\\",
+        "outputPath": "c:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

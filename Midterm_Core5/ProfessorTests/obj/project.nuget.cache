@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6K2x0uoCrDY=",
+  "dgSpecHash": "iDUxVLU7T8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorTests\\ProfessorTests.csproj",
+  "projectFilePath": "c:\\Users\\L00733160\\Desktop\\College\\CS162N\\Midterm\\-JuddsLane-CS162N-Midterm\\Midterm_Core5\\ProfessorTests\\ProfessorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L00733160\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\L00733160\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",

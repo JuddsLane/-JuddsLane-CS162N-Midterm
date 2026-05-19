@@ -1,0 +1,12 @@
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\bin\Debug\net5.0\ProfessorClasses.deps.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\bin\Debug\net5.0\ProfessorClasses.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\bin\Debug\net5.0\ProfessorClasses.pdb
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.AssemblyInfoInputs.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.AssemblyInfo.cs
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.csproj.CoreCompileInputs.cache
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.sourcelink.json
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\refint\ProfessorClasses.dll
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ProfessorClasses.pdb
+c:\Users\L00733160\Desktop\College\CS162N\Midterm\-JuddsLane-CS162N-Midterm\Midterm_Core5\ProfessorClasses\obj\Debug\net5.0\ref\ProfessorClasses.dll
